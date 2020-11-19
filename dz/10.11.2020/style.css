@@ -1,0 +1,132 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+body
+    {
+        background-image: linear-gradient(135deg,#f8dad2,#e3e7f6);
+        margin: 0;
+    }
+.allconten
+    {
+        width: 80%;
+        height: 100vh;
+        background-color: white;
+        border-radius: 30px;
+        margin-left: 150px;
+        opacity: 0.5;
+    }
+.nav
+    {
+        width: 80%;
+        height: 74px;
+        background-color: white;
+        opacity: 0.9;
+        border-top-right-radius: 30px;
+        border-top-left-radius: 30px;
+        margin: auto;
+        margin-top: 50px;
+    }
+.task
+    {
+        color: purple;
+        font-size: 40px;
+        font-family: fantasy;
+        padding-left: 70px;
+        padding-top: 50px;
+    }
+.project
+    {
+        color: purple;
+        font-size: 30px;
+        font-family: fantasy;
+        padding-left: 500px;
+        padding-top: 20px;
+        display: inline-block;
+    }
+.Settings
+    {
+        color: purple;
+        font-size: 30px;
+        font-family: fantasy;
+        padding-left: 50px;
+        padding-top: 20px;
+        display: inline-block;
+    }
+.holo
+    {
+    color: purple;
+    font-size: 30px;
+    font-family: fantasy;
+    padding-left: 50px;
+    padding-top: 20px;
+    display: inline-block;
+    }
+.panel
+    {
+        width: 65%;
+        height: 100px;
+        background-color: blue;
+        margin-left: 183px;
+    }
+.aside
+    {
+        height: 65vh;
+        width: 200px;
+        background-color: yellow;
+        float: right;
+        margin-right: 200px;
+        
+    }
+.someshit
+    {
+        margin: auto;
+        background-color: black;
+        width: 65%;
+        height: 80vh;
+        margin: auto;
+       
+        margin-left: 183px;
+        display: inline-block;
+        
+    }
+.someg
+    {
+        width: 1100px;
+        height: 65vh;
+        background-color: white;
+        margin-top: 100px;
+        margin-left: 98px;
+        display: flex;
+        justify-content: space-between;
+        display: inline-block;
+    }
+.blocks
+    {
+        width: 250px;
+        height: 65vh;
+        background-color: chartreuse;
+        display: inline-block;
+    }
+.card
+    {
+        background-color: blue;
+        width: 250px;
+        height: 160px;
+        border-radius: 10px;
+    }
+.cardone
+    {
+        margin-top: 10px;
+    }    
+.cardspecial1
+{
+    background-color: blue;
+    width: 250px;
+    height: 300px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+

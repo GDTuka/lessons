@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+.container
+    {
+        background-color: blueviolet;
+        width: 700px;
+        height: 700px;
+        border-radius: 10px;
+        padding: 50px;
+        margin: calc(50vh - 400px);
+        margin: auto;
+        box-sizing: content-box;
+        display: flex;
+        justify-content: space-between;
+    }
+.card
+    {
+        width: 50px;
+        font: 50px / 1.5 sans-serif;
+        color: orange;
+        background-color: darkslateblue;
+        border: 1px solid;
+        box-sizing: border-box;
+        text-align: center;
+        border-radius: 4px;
+    }
